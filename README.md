@@ -29,6 +29,8 @@ Office hours the week of Dec 13 TBD
 
 - [PyData talk in Dec 2019 from the creator of Panel](https://www.youtube.com/watch?v=Ohr29FJjBi0)
 - [Tutorial on Classes in Python](http://introtopython.org/classes.html)
+- [Components section of Panel User Guide](https://panel.holoviz.org/user_guide/Components.html)
+- [API section of Panel User Guide](https://panel.holoviz.org/user_guide/APIs.html)
 
 ## Dashboard Examples
 
