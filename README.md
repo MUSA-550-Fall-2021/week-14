@@ -57,7 +57,7 @@ We'll walk through two examples of [Panel](https://panel.holoviz.org) dashboards
     - Github repository of resources and information on Panel
     - [Awesome Panel gallery of example apps](https://awesome-panel.org/gallery)
   - [Example dashboards from the HoloViz team](https://github.com/holoviz-demos)
-- [Datashader dashboard tutorial](https://examples.holoviz.org/datashader_dashboard/dashboard.html)
+- [Datashader dashboard tutorial](https://examples.pyviz.org/datashader_dashboard/dashboard.html)
   - Including a detailed walk-through of a Datashader-based dashboard
 - [Holoviews Reference Gallery](http://holoviews.org/reference/index.html)
   - [Streams](http://holoviews.org/reference/index.html#streams)
