@@ -55,15 +55,15 @@ We'll walk through two examples of [Panel](https://panel.holoviz.org) dashboards
   - [Panel Templates](https://panel.holoviz.org/user_guide/Templates.html)
   - [Awesome Panel](https://github.com/MarcSkovMadsen/awesome-panel)
     - Github repository of resources and information on Panel
+    - [Awesome Panel gallery of example apps](https://awesome-panel.org/gallery)
   - [Example dashboards from the HoloViz team](https://github.com/holoviz-demos)
 - [Datashader dashboard tutorial](https://examples.holoviz.org/datashader_dashboard/dashboard.html)
   - Including a detailed walk-through of a Datashader-based dashboard
 - [Holoviews Reference Gallery](http://holoviews.org/reference/index.html)
   - [Streams](http://holoviews.org/reference/index.html#streams)
   - [DynamicMap](http://holoviews.org/reference/containers/bokeh/DynamicMap.html#bokeh-gallery-dynamicmap)
-- [Introduction to Python classes](http://www.jesshamrick.com/2011/05/18/an-introduction-to-classes-and-inheritance-in-python/)
+- [Introduction to Python classes](http://introtopython.org/classes.html)
 - Heroku
   - First, signup for a Heroku free [account](https://signup.heroku.com)
   - Download and [install the command line interface (CLI)](https://devcenter.heroku.com/articles/getting-started-with-python#set-up).
-  - See the "Heroku Example" for Dash: https://dash.plot.ly/deployment
   - See the example [instructions](https://github.com/MUSA-550-Fall-2021/philadelphia-shootings-app#deploying-this-app-on-heroku) for deploying the Philadelphia Shootings App on Heroku
