@@ -14,7 +14,7 @@ The final deliverable **must include all three of the below items**:
 
 The materials for steps #2 an #3 above should be submitted to your own specific GitHub repository, which can be created using the link below:
 
-https://classroom.github.com/g/Ziyu_n2S
+https://classroom.github.com/a/_upwcoSZ
 
 ### Important
 
@@ -23,19 +23,19 @@ https://classroom.github.com/g/Ziyu_n2S
 
 ## Office Hours
 
-Office hours the week of Dec 14 TBD
+Office hours the week of Dec 13 TBD
 
 ## Recommended Viewing/Reading
 
 - [PyData talk in Dec 2019 from the creator of Panel](https://www.youtube.com/watch?v=Ohr29FJjBi0)
-- [Classes in Python](https://web.archive.org/web/20190730093245/http://www.jesshamrick.com/2011/05/18/an-introduction-to-classes-and-inheritance-in-python/)
+- [Tutorial on Classes in Python](http://introtopython.org/classes.html)
 
 ## Dashboard Examples
 
 We'll walk through two examples of [Panel](https://panel.holoviz.org) dashboards that can serve as a reference for the final project.
 
-1. [Visualizing recent shootings in Philadelphia using Altair, Folium, and Holoviews](https://github.com/MUSA-550-Fall-2020/philadelphia-shootings-app)
-1. [Visualizing NYC taxi trips with Datashader and Altair](https://github.com/MUSA-550-Fall-2020/datashader-nyc-taxi-app)
+1. [Visualizing recent shootings in Philadelphia using Altair, Folium, and Holoviews](https://github.com/MUSA-550-Fall-2021/philadelphia-shootings-app)
+1. [Visualizing NYC taxi trips with Datashader and Altair](https://github.com/MUSA-550-Fall-2021/datashader-nyc-taxi-app)
 
 ## Summary of Web-based Options
 
@@ -66,4 +66,4 @@ We'll walk through two examples of [Panel](https://panel.holoviz.org) dashboards
   - First, signup for a Heroku free [account](https://signup.heroku.com)
   - Download and [install the command line interface (CLI)](https://devcenter.heroku.com/articles/getting-started-with-python#set-up).
   - See the "Heroku Example" for Dash: https://dash.plot.ly/deployment
-  - See the example [instructions](https://github.com/MUSA-550-Fall-2020/philadelphia-shootings-app#deploying-this-app-on-heroku) for deploying the Philadelphia Shootings App on Heroku
+  - See the example [instructions](https://github.com/MUSA-550-Fall-2021/philadelphia-shootings-app#deploying-this-app-on-heroku) for deploying the Philadelphia Shootings App on Heroku
